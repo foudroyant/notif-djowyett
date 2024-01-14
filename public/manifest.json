@@ -1,0 +1,31 @@
+{
+    "name": "Djowyett Notif",
+    "short_name": "Notif",
+    "description": "Une application web progressive de notification",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#4b39ef",
+    "theme_color": "#000000",
+    "icons": [
+        {
+            "src": "/logo.jpg",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/logo.jpg",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/logo.jpg",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/logo.jpg",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
